@@ -12,6 +12,7 @@ function App() {
     { name: 'Grind it', author: 'Ray' },
     { name: 'Shoe Dog', author: 'bo' },
   ]
+
   const handleIncreaseSteps = () => {
     setSteps(steps + 1);
 
